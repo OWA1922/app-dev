@@ -2,7 +2,7 @@
 My first repository
 # Breaking Bad
 
-![image] https://www.google.com/search?sca_esv=a07f0383584960a3&rlz=1C1GCEA_enPH983PH983&sxsrf=ADLYWIKLD9id2WYoDO5oT_m_0PEp436igw:1731334342331&q=breaking+bad&udm=2&fbs=AEQNm0COtQ6qE5snXClm_cWqGTLX_jMP5V4l2v9LemFtanifXUj1LD6QCINf2Stcfc55fHi_K0iAiH4y_ML3L3eGQg5P-iuT1QvbjsxInYkhCPQm-sYLJdV1DOkMWHHkY-i7EY26LN80Qro5EB0XqKeI7nUYgY5Xid1OWpbGJmYhpmga0-Qmop9EJ7_jcU9M50Y1SyzUQzAFBPiUPo80VreD2GtlVqLYow&sa=X&ved=2ahUKEwje7diDu9SJAxU4dfUHHb2QDf0QtKgLegQIFhAB&biw=1920&bih=919&dpr=1#vhid=hlZmzX_-Kda3sM&vssid=mosaic
+![image] https://www.imdb.com/title/tt0903747/mediaviewer/rm3116305665/?ref_=tt_ov_i
 
 **Breaking Bad** is a critically acclaimed TV series created by *Vince Gilligan*. It tells the story of a high school chemistry teacher turned methamphetamine manufacturer. Here's an overview using some markdown elements:
 
