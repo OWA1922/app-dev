@@ -5,7 +5,7 @@ Our First Repository
 Members:
 Perez Cherry,
 Dela Cruz Dylan,
-Pelayo jakolero ng lalaki,
+Pelayo JohnMichael,
 Bueno Joshua
 # Breaking Bad
 
