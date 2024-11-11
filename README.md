@@ -5,7 +5,7 @@ Our First Repository
 Members:
 Perez Cherry,
 Dela Cruz Dylan,
-Pelayo jakolero ng lalaki,
+Pelayo JohnMichael,
 Bueno Joshua
 
 ![hq720](https://github.com/user-attachments/assets/1fc108b6-2102-494a-a070-117710abea07)
