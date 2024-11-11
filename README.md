@@ -6,7 +6,7 @@ Members:
 Perez Cherry,
 Dela Cruz Dylan,
 Pelayo jakolero ng lalaki,
-Bueno Joshua, 
+Bueno Joshua
 # Breaking Bad
 
 ![hq720](https://github.com/user-attachments/assets/c80cb2fb-108b-4bf4-8c6b-0c1008e3b87e)
