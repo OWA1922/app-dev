@@ -2,7 +2,7 @@
 My first repository
 # Breaking Bad
 
-![image] https://www.imdb.com/title/tt0903747/mediaviewer/rm3116305665/?ref_=tt_ov_i
+![hq720](https://github.com/user-attachments/assets/c80cb2fb-108b-4bf4-8c6b-0c1008e3b87e)
 
 **Breaking Bad** is a critically acclaimed TV series created by *Vince Gilligan*. It tells the story of a high school chemistry teacher turned methamphetamine manufacturer. Here's an overview using some markdown elements:
 
