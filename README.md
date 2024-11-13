@@ -1,11 +1,6 @@
 # app-dev
-Our First Repository
+My First Repository
 
-
-Members:
-Perez Cherry,
-Dela Cruz Dylan,
-Pelayo JohnMichael,
 Bueno Joshua
 # Breaking Bad
 
